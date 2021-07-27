@@ -1,0 +1,32 @@
+$black:#000;
+$white:#fff;
+$dark_grey:#2a2a2a;
+$light_grey:#333;
+
+header {
+  background: black;
+}
+
+.topnavbar {
+  width: 1024px;
+  margin: 0 auto;
+}
+
+header::after {
+  content: '';
+  display: table;
+  clear: both;
+}
+
+.shopping_bag {
+  float: right;
+  margin-top: 30px;
+}
+
+#cost {
+  font-size: 18px;
+  color: #fff;
+  float: right;
+  margin-top: 50px;
+  margin-right: 5px;
+}
