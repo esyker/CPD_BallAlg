@@ -1,4 +1,4 @@
-# Parallel and Distributed Computing Project
+# Parallel and Distributed Versions of the KNN Algorithm in C++
 Parallel and distributed versions in C++ of the KNN algorithm:
 
 - Parallel Version using ***OpenMP***. The approach used for parallelization is to parallelize the inner functions of the algorithm of the ball algorithm on the first node.
